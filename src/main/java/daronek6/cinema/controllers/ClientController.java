@@ -1,8 +1,6 @@
 package daronek6.cinema.controllers;
 
 import daronek6.cinema.entities.Client;
-import daronek6.cinema.exceptions.EntityNotFoundException;
-import daronek6.cinema.repositories.ClientRepo;
 import daronek6.cinema.services.ClientService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
